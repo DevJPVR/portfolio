@@ -10,7 +10,6 @@
 
 # production
 /build
-/backend_sanity
 
 # misc
 .DS_Store
