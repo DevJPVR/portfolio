@@ -23,7 +23,7 @@ var linguJSON = {
             "source": "+450 Produtos",
             "target_en": "+450 Products",
             "target_es": "+450 Productos"
-        },
+        }, 
         {
             "source": "Mais de 450 moldes diferentes.",
             "target_en": "Over 450 different templates.",
