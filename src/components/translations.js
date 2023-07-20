@@ -21,24 +21,9 @@ var linguJSON = {
     "translated_segments": [
         // INICIO MENU 
         {
-            "source": "Agenda | Notícias",
-            "target_en": "Schedule | News",
-            "target_es": "Horario | Noticias"
-        },
-        {
-            "source": "Desenvolvimento",
-            "target_en": "Development",
-            "target_es": "Desarrollo"
-        },
-        {
-            "source": "Áreas de negócio | Produtos",
-            "target_en": "Business Areas | Products",
-            "target_es": "Áreas de negocio | productos"
-        },
-        {
-            "source": "Contactos",
-            "target_en": "Contacts",
-            "target_es": "Contactos"
+            "source": "Agenda Notícias, Desenvolvimento, Áreas de negócio Produtos, Contactos",
+            "target_en": "Agenda News, Development, Business Areas Products, Contacts",
+            "target_es": "Agenda Noticias, Desarrollo, Áreas de Negocio Productos, Contactos"
         },
         //FIM MENU
      		{
