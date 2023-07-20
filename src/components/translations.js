@@ -19,13 +19,28 @@ var linguJSON = {
   	"custom_lang_switcher_html": "<div id=\"langswitcher\" class=\"notranslate\"> <a id=\"currlanglink\" href=\"\">[[linguCurrLang]]</a> <a href=\"[[linguTargetLangHref1]]\" class=\"targetlang\">[[linguTargetLang1]]</a><a href=\"[[linguTargetLangHref2]]\" class=\"targetlang\">[[linguTargetLang2]]</a></div>",
     "custom_lang_switcher_container_id": "langlinks",
     "translated_segments": [
-        // MENU 
+        // INICIO MENU 
         {
-            "source": "Agenda Notícias, Desenvolvimento, Áreas de negócio Produtos, Contactos",
-            "target_en": "Agenda News, Development, Business Areas Products, Contacts",
-            "target_es": "Agenda Noticias, Desarrollo, Áreas de Negocio Productos, Contactos"
+            "source": "Agenda | Notícias",
+            "target_en": "Schedule | News",
+            "target_es": "Horario | Noticias"
         },
-
+        {
+            "source": "Desenvolvimento",
+            "target_en": "Development",
+            "target_es": "Desarrollo"
+        },
+        {
+            "source": "Áreas de negócio | Produtos",
+            "target_en": "Business Areas | Products",
+            "target_es": "Áreas de negocio | productos"
+        },
+        {
+            "source": "Contactos",
+            "target_en": "Contacts",
+            "target_es": "Contactos"
+        },
+        //FIM MENU
      		{
             "source": "Portugues",
             "target_en": "English",
