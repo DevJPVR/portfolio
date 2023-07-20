@@ -32,14 +32,24 @@ var linguJSON = {
         },
          //FIM MENU
          {
-            "source": "+450 Produtos, Mais de 450 moldes diferentes.",
-            "target_en": "+450 Products, Over 450 different templates.",
-            "target_es": "+450 Productos, Más de 450 plantillas diferentes."
+            "source": "+450 Produtos",
+            "target_en": "+450 Products",
+            "target_es": "+450 Productos"
         },
         {
-            "source": "+400 Clientes 2022, Mais de 400 empresas confiam em nós para dar resposta às suas necessidades.",
-            "target_en": "+400 Clients 2022,More than 400 companies trust us to respond to your needs.",
-            "target_es": "+400 Clientes 2022, Más de 400 empresas confían en nosotros para responder a sus necesidades."
+            "source": "Mais de 450 moldes diferentes.",
+            "target_en": "Over 450 different templates.",
+            "target_es": "Más de 450 plantillas diferentes."
+        },
+        {
+            "source": "+400 Clientes 2022",
+            "target_en": "+400 Clients 2022",
+            "target_es": "+400 Clientes 2022"
+        },
+        {
+            "source": "Mais de 400 empresas confiam em nós para dar resposta às suas necessidades.",
+            "target_en": "More than 400 companies trust us to meet their needs.",
+            "target_es": "Más de 400 empresas confían en nosotros para cubrir sus necesidades."
         }
     ]
 };
